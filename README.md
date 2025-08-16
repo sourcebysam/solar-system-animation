@@ -13,3 +13,9 @@ It shows the Sun at the center, the Earth orbiting around it, and the Moon orbit
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/sourcebysam/solar-system-animation.git
+
+📌 Technologies Used
+
+-HTML5
+-CSS
+-JavaScript (Canvas API)
